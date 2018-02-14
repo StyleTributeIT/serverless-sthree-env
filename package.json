@@ -1,0 +1,19 @@
+{
+  "name": "sthree-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest test"
+  },
+  "author": "Hans Tjipto <hansbrians@gmail.com> (styletribute.com)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.194.0",
+    "jest": "^22.3.0",
+    "serverless": "^1.26.0"
+  }
+}
