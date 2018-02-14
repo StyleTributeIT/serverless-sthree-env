@@ -1,5 +1,5 @@
 {
-  "name": "sthree-env",
+  "name": "serverless-sthree-env",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,14 @@
   "scripts": {
     "test": "jest test"
   },
+  "keywords": [
+    "serverless",
+    "serverless-plugin",
+    "plugin",
+    "s3",
+    "aws",
+    "encryption"
+  ],
   "author": "Hans Tjipto <hansbrians@gmail.com> (styletribute.com)",
   "license": "ISC",
   "dependencies": {

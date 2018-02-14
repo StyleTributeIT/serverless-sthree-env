@@ -3,7 +3,7 @@ This plugin is used to get config from a json formatted file in S3 and copy them
 
 ## HOW TO USE
 
-- just include this plugin to your serverless yml file
+- just include 'serverless-sthree-env' plugin to your serverless yml file
 
 For now it is quite simple, the bucket and config key name is predefined based on
 
