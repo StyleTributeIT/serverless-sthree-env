@@ -1,4 +1,4 @@
-# STHEREE ENV PLUGIN
+# STHREE ENV PLUGIN
 This plugin is used to get config from a json formatted file in S3 and copy them to environment variable
 
 ## HOW TO USE
